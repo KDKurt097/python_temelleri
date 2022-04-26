@@ -12,5 +12,13 @@ if username==isim:
 else:
   print("Yanlış Şifre. Tekrar deneyiniz!!!")
 
-else :
-    print(username, " Yanlış İsim")
+else:
+  print("Yanlış Şifre. Tekrar deneyiniz!!!")
+  else:
+  print("Yanlış Şifre. Tekrar deneyiniz!!!")
+  else:
+  print("Yanlış Şifre. Tekrar deneyiniz!!!")
+  else:
+  print("Yanlış Şifre. Tekrar deneyiniz!!!")
+  else:
+  print("Yanlış Şifre. Tekrar deneyiniz!!!")
