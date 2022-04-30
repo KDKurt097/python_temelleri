@@ -56,9 +56,9 @@ boy = float(input("boyunuz: "))
 index = kilo / ( boy**2 )
 zayıf = 0 < index <= 18.4
 normal = 18.5 <= index <= 24.9
-fazla_kilolu = 25.0 <= index <= 29.9
+fazlaKilolu = 25.0 <= index <= 29.9
 şisman = 30 <= index <= 34.9
-kurt_kilosu = 35 <= index 
+kurtKilosu = 35 <= index 
 
 print(f"Kilo-boy indexiniz {index} zayıflık durumunuz {zayıf}")
 print(f"Kilo-boy indexiniz {index} normal durumunuz {normal}")
