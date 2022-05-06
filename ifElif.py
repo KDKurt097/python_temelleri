@@ -1,3 +1,5 @@
+# elif sadece if in yetersiz kaldığı zamanlarda if ile aynı görevde kullanılır
+
 """
 x = int(input("x:"))
 y = int(input("y:"))

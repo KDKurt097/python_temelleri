@@ -1,3 +1,5 @@
+# else if in tersi için kullanılır
+
 nickname = "KDKurt097"
 password = "1234"
 

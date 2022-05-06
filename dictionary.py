@@ -14,6 +14,7 @@ print(plakalar["istanbul"])
 plakalar["ankara"] = 6
 print(plakalar)
 """
+"""
 kullanicilar = {
          "kurt":{
              "yas":15,
@@ -33,5 +34,5 @@ kullanicilar = {
 
 print(kullanicilar)
 
-
+"""
 
