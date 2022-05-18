@@ -21,7 +21,7 @@ kullanicilar = {
              "rol":"pet",
              "email": "kizeyimkurt@gmail.com",
              "addess": "Aydın/Kuşadası",
-             "telephone": "05316110492"
+             "telephone": "05316110493"
          },
          "eray": {
              "yaş":23,

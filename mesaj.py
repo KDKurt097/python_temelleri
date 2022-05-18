@@ -1,17 +1,17 @@
-mesaj = " Merhaba,ben Mahmut Tuncer."
+mesaj = " Merhaba, ben Mahmut Tuncer."
 
-#mesaj = mesaj.upper()
-#mesaj = mesaj.lower()
+#mesaj = mesaj.upper() # bütün karakterleri büyük harf yapar
+#mesaj = mesaj.lower() # bütün karakterleri küçük harf yapar
 #mesaj = mesaj.title()
 #mesaj = mesaj.capitalize()
-#mesaj = mesaj.strip()
-#mesaj = mesaj.split()
+#mesaj = mesaj.strip() # başkati ve en sondaki boşlukları siler
+#mesaj = mesaj.split() 
 #mesaj = mesaj.split(",")
 #mesaj = " ".join(mesaj)
 #index = mesaj.find("Mahmut")
 #isFound = mesaj.startswith(M)
 #isFound = mesaj.endswith(r)
-#mesaj = mesaj.replace("Mahmut","Kurt")
+#mesaj = mesaj.replace("Mahmut","Kurt") # girilen ilk karakteri ikinciyle deiğiştirir
 #mesaj = mesaj.center(100,"*")
 
 

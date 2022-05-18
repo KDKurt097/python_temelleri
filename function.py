@@ -4,13 +4,16 @@
 # fonksiyon oluşturmak için def komudunu kullanmamız gerekiyor
 # return geri gönderir
 
-"""
+'''
 def sayHello(name = "user"):
+    """
+        burası help kısmı  fonksiyonun ne işe yaradığını görmek isteyenler help("fonksiyonun adı) şeklinde buraya ulaşabilir.   
+    """
     print(f"Hello {name}")
 
 sayHello("Kurt")
 sayHello()
-"""
+'''
 """
 def sayHello(name = "user"):
     return f"Hello {name}"
